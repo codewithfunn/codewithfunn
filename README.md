@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [flizzycreation](flizzycreation.com)
 
-- 🌱 I’m currently learning **aws**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **react,nextjs,aws**
 
