@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/jaspreet_suri_" target="blank"><img src="https://img.shields.io/twitter/follow/jaspreet_suri_?logo=twitter&style=for-the-badge" alt="jaspreet_suri_" /></a> </p>
 
-- 🔭 I’m currently working on [flizzycreation](flizzycreation.com)
-
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **react,nextjs,aws**
 
 - 📫 How to reach me **jaspreetsingh09912@gmail.com**
-
-- ⚡ Fun fact **I am funny 😎**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
